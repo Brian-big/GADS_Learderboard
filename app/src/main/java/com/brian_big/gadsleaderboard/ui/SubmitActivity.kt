@@ -64,7 +64,8 @@ class SubmitActivity : AppCompatActivity() {
                 }
                 else{
                     prompt(R.layout.dialog_fail)
-                    Log.d("response ", response.message())
+                    Log.d("response ", response.body().toString())
+                    Toast.makeText(this@SubmitActivity, response.body().toString(), Toast.LENGTH_LONG).show()
                 }
             }
 
