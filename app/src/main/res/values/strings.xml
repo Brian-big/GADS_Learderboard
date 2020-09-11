@@ -24,4 +24,6 @@
     <string name="project_submission">Project Submission</string>
     <string name="yes">Yes</string>
     <string name="sure">Are you sure ?</string>
+    <string name="submission_not_successful">Submission not successful</string>
+    <string name="submission_successful">Submission successful</string>
 </resources>
