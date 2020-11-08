@@ -1,3 +1,3 @@
-# GADS_Learderboard
+# GADS_Learderboard:octocat:
 
-This as an app for GADS 2020 exercise project 1
+Gads Leaderboard app :sparkles: is a GADS 2020 exercise project 1
